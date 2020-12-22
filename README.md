@@ -1,3 +1,5 @@
+#PS
+This is based on [this github repo](https://github.com/alex14324/PowershellRat). I was not aware of forking at that time so I simply cloned it edited and created a new repository months later. 
 # Powershell-RAT
 Python based backdoor that uses Gmail to exfiltrate data as an e-mail attachment. 
 
